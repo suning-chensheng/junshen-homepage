@@ -1,4 +1,13 @@
-<img src="[https://img1.baidu.com/it/u=1883253218,3865995873&fm=253&fmt=auto&app=138&f=JPEG?w=610&h=138]">
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>
+      <img src="img/个人头像.jpg" width="140" height="200" alt="error">
+      <h3 align="center">沈 珺</h3>
+    </td>
+  </tr>
+</table>
+
 
 个人简介
 ======
@@ -20,7 +29,7 @@
 [6] Jianghong Wei, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. ESORICS, LNCS, Springer, 12973: 296-312, 2021.  
 [7] Jianghong Wei, Meixia Miao, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
 [8] Chang Wang, **Jun Shen**, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. Journal of Internet Technology, 22(5): 979-989, 2021.  
-[9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.  
+[9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.
 
 申请专利
 ======
@@ -30,3 +39,4 @@
 4. 陈晓峰、沈珺、田国华、王剑锋，可验证且完全可编辑的区块链系统、方法、设备及终端。申请号：202210281106.8
 5. 陈晓峰、曹艳梅、沈珺、袁浩然，一种公钥可否认加密方法及系统，授权日期：2021.11.23。专利号：ZL202010539354.9
 6. 陈晓峰、田国华、姚雨松、沈珺、王连海，一种支持完整性审计的高效可验证区块链编辑方法，授权日期：2023.7.28。专利号：202210530746.8
+
