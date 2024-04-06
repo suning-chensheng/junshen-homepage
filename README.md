@@ -7,7 +7,20 @@
     <td>
         <h3 align="left">沈 珺</h3>
         <h4 align="left">上海大学 计算机工程与科学学院 讲师</h4>
-        <a href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
+
+<address align="left">
+  <span><img src="img/地址.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">&nbsp;宝山校区东区15号楼409</span>
+</address>
+
+<address align="left">
+  <span><img src="img/邮箱.png" width="25" height="25" alt="error" style="display:inline-block; vertical-align:middle;"></span>
+  <a href="mailto:j_shen@shu.edu.cn">&nbsp;&nbsp;j_shen@shu.edu.cn</a>
+</address>
+
+<address align="left">
+  <span><img src="img/帽子.png" width="30" height="40" alt="error" style="display:inline-block; vertical-align:middle;"></span>
+  <a href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
+</address>
     </td>
   </tr>
 </table>
@@ -16,15 +29,6 @@
 个人简介
 ======
 2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；申请国家发明专利 6 项，已授权 3 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
-
-联系方式
-======
-**地址：**  
-上海大学(宝山校区)  
-计算机工程与科学学院  
-上海市宝山区南陈路333号15号楼409  
-**邮箱：**
-[j_shen@shu.edu.cn](mailto:j_shen@shu.edu.cn)
 
 参研项目
 ======
