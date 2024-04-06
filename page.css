@@ -1,7 +1,0 @@
-ul.no-bullets {
-    list-style-type: none;
-}
-
-ul.no-bullets li:before {
-    content: '';
-}
