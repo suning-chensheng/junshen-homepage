@@ -1,9 +1,9 @@
-<table>
+<table style="border-collapse: collapse;border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="img/个人头像.jpg" width="140" height="200" alt="error">
     </td>
-    <td>
+    <td style="border: none;">
         <h3>沈 珺</h3>
         <h4>上海大学 计算机工程与科学学院 讲师</h4><br>
         宝山校区东区15号楼409<br>
