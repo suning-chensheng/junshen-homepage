@@ -7,16 +7,16 @@
     <td>
         <h3>沈 珺</h3>
         <h4>上海大学 计算机工程与科学学院 讲师</h4>
-        <ul style="list-style-type:none" align="left">
-            <li align="left" style="content: ''">
+        <ul style="list-style-type:none">
+            <li>
                 <img src="img/地址.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">&nbsp;宝山校区东区15号楼409
             </li>
-            <li align="left" style="content: ''">
-                <img src="img/邮箱.png" width="25" height="25" alt="error" style="display:inline-block; vertical-align:middle;">
+            <li>
+                <img src="img/邮箱.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">
                 <a href="mailto:j_shen@shu.edu.cn">&nbsp;&nbsp;j_shen@shu.edu.cn</a>
             </li>
-            <li align="left" style="content: ''">
-                <img src="img/帽子.png" width="30" height="40" alt="error" style="display:inline-block; vertical-align:middle;">
+            <li>
+                <img src="img/帽子.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">
                 <a href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
             </li>
         </ul>
