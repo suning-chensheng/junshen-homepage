@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 0.5; margin-right: 1px;">
+    <div style="flex: 0.2; margin-right: 0px;">
         <img src="img/个人头像.jpg" width="140" height="200" alt="error">
     </div>
-    <div style="flex: 1; margin-left: 1px;">
+    <div style="flex: 0.8; margin-left: 0px;">
         <h3>沈 珺</h3>
         <h4>上海大学 计算机工程与科学学院 讲师</h4><br>
         宝山校区东区15号楼409<br>
