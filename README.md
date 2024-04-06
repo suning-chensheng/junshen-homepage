@@ -4,7 +4,7 @@
     </div>
     <div style="flex: 0.8; margin-left: 0px;">
         <h3>沈 珺</h3>
-        <h4>上海大学 计算机工程与科学学院 讲师</h4><br>
+        <h4>上海大学 计算机工程与科学学院 讲师</h4>
         宝山校区东区15号楼409<br>
         <a style="text-decoration: none;" href="mailto:j_shen@shu.edu.cn">j_shen@shu.edu.cn</a><br>
         <a style="text-decoration: none;" href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
