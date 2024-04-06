@@ -1,0 +1,8 @@
+.hidden-grid {
+border-collapse: collapse;
+border: none;
+}
+
+.hidden-grid td {
+border: none;
+}
