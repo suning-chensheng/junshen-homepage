@@ -1,8 +1,7 @@
-.hidden-grid {
-border-collapse: collapse;
-border: none;
+ul.no-bullets {
+    list-style-type: none;
 }
 
-.hidden-grid td {
-border: none;
+ul.no-bullets li:before {
+    content: '';
 }

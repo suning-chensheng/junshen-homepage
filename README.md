@@ -7,20 +7,19 @@
     <td>
         <h3 align="left">沈 珺</h3>
         <h4 align="left">上海大学 计算机工程与科学学院 讲师</h4>
-
-<address align="left">
-  <span><img src="img/地址.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">&nbsp;宝山校区东区15号楼409</span>
-</address>
-<br>
-<address align="left">
-  <span><img src="img/邮箱.png" width="25" height="25" alt="error" style="display:inline-block; vertical-align:middle;"></span>
-  <a href="mailto:j_shen@shu.edu.cn">&nbsp;&nbsp;j_shen@shu.edu.cn</a>
-</address>
-<br>
-<address align="left">
-  <span><img src="img/帽子.png" width="30" height="40" alt="error" style="display:inline-block; vertical-align:middle;"></span>
-  <a href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
-</address>
+        <ul style="list-style-type:none" align="left">
+            <li align="left">
+                <img src="img/地址.png" width="30" height="30" alt="error" style="display:inline-block; vertical-align:middle;">&nbsp;宝山校区东区15号楼409</span>
+            </li>
+            <li align="left">
+                <span><img src="img/邮箱.png" width="25" height="25" alt="error" style="display:inline-block; vertical-align:middle;"></span>
+                <a href="mailto:j_shen@shu.edu.cn">&nbsp;&nbsp;j_shen@shu.edu.cn</a>
+            </li>
+            <li align="left">
+                <span><img src="img/帽子.png" width="30" height="40" alt="error" style="display:inline-block; vertical-align:middle;"></span>
+                <a href="https://scholar.google.com/citations?hl=en&user=K5lJ05sAAAAJ">Google Scholar</a>
+            </li>
+        </ul>
     </td>
   </tr>
 </table>
