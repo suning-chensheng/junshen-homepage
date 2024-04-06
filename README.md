@@ -2,7 +2,7 @@
     <div style="flex: 1;">
         <img src="img/个人头像.jpg" width="140" height="200" alt="error">
     </div>
-    <div style="flex: 20;">
+    <div style="flex: 2;">
         <h3>沈 珺</h3>
         <h4>上海大学 计算机工程与科学学院 讲师</h4>
         宝山校区东区15号楼409<br>
