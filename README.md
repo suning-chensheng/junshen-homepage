@@ -14,7 +14,7 @@
 
 个人简介
 ======
-2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；授权国家发明专利 6 项；主持国家自然科学基金青年科学基金项目 1 项、 上海市“科技创新行动计划”启明星培育(扬帆专项) 1 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
+2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；授权国家发明专利 6 项；主持国家自然科学基金青年科学基金项目 1 项、上海市“科技创新行动计划”启明星培育(扬帆专项) 1 项、河南省重大科技专项子任务 1 项；参研专用技术预研项目、国家自然科学基金重点国际合作与交流项目、省级重点研发计划等。
 
 代表作
 ======
@@ -27,12 +27,6 @@
 [7] Jianghong Wei, Meixia Miao, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
 [8] Chang Wang, **Jun Shen**, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. Journal of Internet Technology, 22(5): 979-989, 2021.  
 [9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.
-
-参研项目
-======
-1. 国家自然科学基金国际合作与交流项目，开放融合环境下密文数据安全服务关键理论与技术，参与人。
-2. 陕西省重点研发计划，开放融合环境下区块链数据监管与安全审计关键技术，参与人。
-3. 山东省重点研发计划，区块链网络监管与安全防护关键技术，参与人。
 
 
 
