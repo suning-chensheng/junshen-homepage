@@ -26,4 +26,4 @@
 [6] Jianghong Wei, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. ESORICS, LNCS, Springer, 12973: 296-312, 2021.  
 [7] Jianghong Wei, Meixia Miao, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
 [8] Chang Wang, **Jun Shen**, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. Journal of Internet Technology, 22(5): 979-989, 2021.  
-[9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.
+[9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021. 
