@@ -19,15 +19,11 @@
 代表作
 ======
 [1] **Jun Shen**, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. IEEE Transactions on Information Forensics & Security, (18): 3787-3802, 2023.  
-[2] **Jun Shen**, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. IEEE Transactions on Dependable and Secure Computing, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.  
-[3] **Jun Shen**, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. IEEE Transactions on Cloud Computing, 3(11): 2711-2724, 2022.  
+[2] **Jun Shen**, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. IEEE Transactions on Dependable and Secure Computing, 21(4): 2057-2067, 2023. DOI: 10.1109/TDSC.2023.3299627.  
+[3] **Jun Shen**, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. IEEE Transactions on Cloud Computing, 11(3): 2711-2724, 2022.  
 [4] **Jun Shen**, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. ESORICS, LNCS, Springer, 12308: 611-631, 2020.  
 [5] Jian Shen, **Jun Shen**, Xiaofeng Chen, Xinyi Huang, Willy Susilo. An Efficient Public Auditing Protocol with Novel Dynamic Structure for Cloud Data. IEEE Transactions on Information Forensics & Security, 10(12): 2402-2415, 2017.  
 [6] Jianghong Wei, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. ESORICS, LNCS, Springer, 12973: 296-312, 2021.  
 [7] Jianghong Wei, Meixia Miao, Guohua Tian, **Jun Shen**, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
 [8] Chang Wang, **Jun Shen**, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. Journal of Internet Technology, 22(5): 979-989, 2021.  
 [9] Ruiyang Li, **Jun Shen**, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.
-
-
-
-
